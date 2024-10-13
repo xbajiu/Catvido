@@ -26,14 +26,14 @@
         "name": "🟢 玩偶",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "玩偶表哥",
         "name": "🟢 表哥",
         "type": 3,
         "api": "./wobg_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "耐看",
@@ -477,7 +477,7 @@
         "type": 4,
         "api": "./push_open.js",
         "ext": {
-          "token": "阿里token",
+          "token": "b3be2327a985411ca12e6730fd9a9401",
           "cookie": "夸克cookie"
         }
       },
@@ -486,63 +486,63 @@
         "name": "🔍 盘寻",
         "type": 3,
         "api": "./pansearch_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "阿里盘搜",
         "name": "🔍 盘搜",
         "type": 3,
         "api": "./pansou_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "阿里七夜",
         "name": "🔍 七夜",
         "type": 3,
         "api": "./dovx_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "小纸条",
         "name": "🔍 纸条",
         "type": 3,
         "api": "./xiaozhitiao_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "UP云搜",
         "name": "🔍 云搜",
         "type": 3,
         "api": "./upyun_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "易搜",
         "name": "🔍 易搜",
         "type": 3,
         "api": "./yiso_open.js",
-        "ext": "阿里token$$$易搜账号cookie"
+        "ext": "b3be2327a985411ca12e6730fd9a9401$$$易搜账号cookie"
       },
       {
         "key": "云盘4K",
         "name": "🔍 云盘",
         "type": 3,
         "api": "./yunpan4k_open.js",
-        "ext": "阿里token"
+        "ext": "b3be2327a985411ca12e6730fd9a9401"
       },
       {
         "key": "找资源",
         "name": "🔍 资源",
         "type": 3,
         "api": "./zhaozy_open.js",
-        "ext": "阿里token$$$找资源账号$$$找资源密码"
+        "ext": "b3be2327a985411ca12e6730fd9a9401$$$找资源账号$$$找资源密码"
       },
       {
         "key": "夸克趣盘搜",
         "name": "🔍 趣盘",
         "type": 3,
         "api": "./funletu_open.js",
-        "ext": "夸克账号cookie"
+        "ext": "__puus=9c33f58944c43b1e2884b6bdc31c3191AAS0OyOHLKyK6vmF47YMsE5YfF4rATOA8KsPyr4f/aVS5SgM0W2vH7LCTQUjAiC5uOBUr+qUCOc1Bg9acW7+d8XMs36KA8ZXmU01Qzj8yA9xsP3mmRlhCXEi+q0HOe8Ccz2qojSCpcB/XXh5N6BQzcLSO+T8Xys6IdR0Yzi4Zm5DQkBAW0CiXw1UCMwTF3I+E6UIOPnhU4baA6+NGhR1q8pt"
       }
     ]
   },
